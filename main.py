@@ -3,6 +3,11 @@
 The email already carried the decision, so the meeting adds nothing
 but a re-presentation of it. The sting lands on the final words:
 the same yes, only now with slides.
+
+Polish 2: wording tried and rejected — "in person" (flatter than
+"with slides", no office artifact), "read aloud" (longer, and it
+explains the re-presentation instead of picturing it), "with a deck"
+(less instantly understood than "slides"). Kept, unchanged.
 """
 
 import sys

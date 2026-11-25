@@ -60,7 +60,18 @@ meeting was booked). Kept, unchanged:
 characters, single line, not blank) before writing, so an invalid
 edit cannot ship silently. Entry text unchanged.
 
-## Polish 3 — (added below)
+## Polish 3 — read-aloud and standalone test
+
+Read aloud, the line is two beats with a pause at the semicolon:
+the decision stated, then the dismissal, sting on "with slides."
+No setup, no names, no meeting title is needed — a stranger reads
+it cold and pictures the room. Nothing left to trim: 71
+characters, well under the 200 cap. Final entry unchanged.
+
+Candidate lengths, for the record: candidate 1, 71 characters;
+candidate 2, 84; candidate 3, 84; candidate 4, 94; candidate 5, 72.
+
+## Verification
 
 Two runs of `python3 main.py`, stdout byte-identical to
 `/output/entry.txt`: entry is 71 characters / 71 bytes, no trailing

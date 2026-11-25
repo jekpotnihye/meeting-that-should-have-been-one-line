@@ -8,6 +8,12 @@ Polish 2: wording tried and rejected — "in person" (flatter than
 "with slides", no office artifact), "read aloud" (longer, and it
 explains the re-presentation instead of picturing it), "with a deck"
 (less instantly understood than "slides"). Kept, unchanged.
+
+Polish 3: read aloud, the line is two beats — decision stated,
+then dismissal — with the pause at the semicolon and the sting on
+"with slides." No setup, no names, no meeting title is needed; a
+stranger reads it cold and pictures the room. Nothing left to trim:
+71 characters, well under the 200 cap. Final entry unchanged.
 """
 
 import sys
